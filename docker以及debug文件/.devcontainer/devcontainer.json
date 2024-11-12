@@ -1,0 +1,14 @@
+{
+    "name": "uni3d",
+    "image": "uni3d",
+    "extensions": [
+        
+    ],
+    "settings": {
+        
+    },
+    "runArgs": [
+        "--gpus",
+        "all"
+    ]
+}
